@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "scala"
+		},
+		{
+			"path": "cpp"
 		}
 	],
 	"settings": {
