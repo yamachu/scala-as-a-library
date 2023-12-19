@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../scala/target/universal/stage/jre/include/**"
+            ]
+        }
+    ],
+    "version": 4
+}
