@@ -1,7 +1,7 @@
 package example
 
 class HelloSpec extends munit.FunSuite {
-  test("say hello") {
-    assertEquals(Hello.greeting, "hello")
+  test("1 + 2 = 3") {
+    assertEquals(Hello.add(1, 2), 3)
   }
 }
