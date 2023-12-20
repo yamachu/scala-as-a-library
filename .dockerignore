@@ -1,0 +1,12 @@
+# 
+.git
+
+# scala
+*/.bloop
+*/.bsp
+*/.metals
+*/.scala-build
+
+# local artifacts
+./cpp/runner
+*/target
